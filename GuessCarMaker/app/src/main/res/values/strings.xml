@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Guess Car Maker</string>
+    <string name="identify_the_car_make_label">Identify the car make</string>
+    <string name="hints_label">Hints</string>
+    <string name="idetify_the_car_image_label">Identify the car image</string>
+    <string name="advance_level_label">Advanced Level</string>
+    <string name="activity2_name">Identify Car Make</string>
+    <string name="identify_car_image_view_description">Display car image, which user need to identify</string>
+    <string name="select_car_maker">Select car maker</string>
+    <string name="identify">Identify</string>
+    <string name="activity3_name">Hints</string>
+    <string name="next_button_label">Next</string>
+    <string name="identify_button_label">Identify</string>
+    <string name="status_label">Guess Car Maker</string>
+    <string name="hint_enter_one_letter">Enter one letter</string>
+    <string name="submit_button_label">Submit</string>
+    <string name="toast_message">Unable to load previous page</string>
+    <string name="activity4_name">Identify Car Image</string>
+    <string name="identify_car_image_1">Image 01 : Identify car image</string>
+    <string name="identify_car_image_2">Image 02 : Identify car image</string>
+    <string name="identify_car_image_3">Image 03 : Identify car image</string>
+    <string name="find_correct_car_label">Find correct image</string>
+    <string name="activity5_name">Advanced Level</string>
+    <string name="advance_level_car_image_1">Car image 1</string>
+    <string name="advance_level_car_image_2">Car image 2</string>
+    <string name="advance_level_car_image_3">Car image 3</string>
+    <string name="advance_level_hint_1">Image 1 car maker name</string>
+    <string name="advance_level_hint_2">Image 2 car maker name</string>
+    <string name="advance_level_hint_3">Image 3 car maker name</string>
+    <string name="advance_level_submit_button">Submit</string>
+    <string name="switch_text_value">Timer</string>
+    <string name="result_wrong">WRONG!</string>
+    <string name="result_correct">CORRECT!</string>
+    <string name="home_page_image_01_description">Home page Image 01</string>
+    <string name="home_page_image_02_description">Home page Image 02</string>
+    <string name="home_game_levels">Game Levels</string>
+
+
+    <string-array name="labels_car_maker">
+        <item>Car makers</item>
+        <item>BMW</item>
+        <item>Audi</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Toyota</item>
+        <item>Mercedes</item>
+        <item>Suzuki</item>
+    </string-array>
+</resources>
